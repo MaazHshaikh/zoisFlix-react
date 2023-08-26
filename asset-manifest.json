@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/zoisFlix-react/static/css/main.85b516b3.css",
-    "main.js": "/zoisFlix-react/static/js/main.1f7b17c3.js",
+    "main.js": "/zoisFlix-react/static/js/main.59c39be2.js",
     "index.html": "/zoisFlix-react/index.html",
     "main.85b516b3.css.map": "/zoisFlix-react/static/css/main.85b516b3.css.map",
-    "main.1f7b17c3.js.map": "/zoisFlix-react/static/js/main.1f7b17c3.js.map"
+    "main.59c39be2.js.map": "/zoisFlix-react/static/js/main.59c39be2.js.map"
   },
   "entrypoints": [
     "static/css/main.85b516b3.css",
-    "static/js/main.1f7b17c3.js"
+    "static/js/main.59c39be2.js"
   ]
 }
